@@ -494,6 +494,7 @@ footer .footer-below {
     padding-top: 35px;
     height: 0;
     overflow: hidden;
+    margin-bottom: 30px;
 }
 
 .video-container iframe#stream-video {
